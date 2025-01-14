@@ -1,5 +1,5 @@
-import tour1 from "C:/Users/kavi/React/back_road/src/images/tour-1.jpeg";
-import tour2 from "C:/Users/kavi/React/back_road/src/images/tour-2.jpeg";
+import tour1 from "./images/tour-1.jpeg";
+import tour2 from "./images/tour-2.jpeg";
 import tour3 from "./images/tour-3.jpeg";
 import tour4 from "./images/tour-4.jpeg";
 
